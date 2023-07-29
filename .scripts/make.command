@@ -3,4 +3,4 @@
 
 { set -x; cd "${0%/*/*}"; { set +x; } 2>/dev/null; }
 
-( set -x;make )
+( set -x; make )

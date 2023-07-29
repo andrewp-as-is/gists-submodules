@@ -1,0 +1,348 @@
+[submodule "93..27 docker-stop-all-containers.sh Docker stop all containers #docker"]
+	path = "93..27 docker-stop-all-containers.sh Docker stop all containers #docker"
+	url = git@gist.github.com:93bbb30be6bfa885efea13b08af8ad27.git
+[submodule "85..10 macOS-list-ports.sh macOS list ports #macos"]
+	path = "85..10 macOS-list-ports.sh macOS list ports #macos"
+	url = git@gist.github.com:85813f11a0038867a449f1624c3a7810.git
+[submodule "6a..57 gunicorn-kill-processes.sh gunicorn kill processes"]
+	path = 6a..57 gunicorn-kill-processes.sh gunicorn kill processes
+	url = git@gist.github.com:6a366d5e10265cfbaf92cce0120a4557.git
+[submodule "c6..47 certbot.sh certbot"]
+	path = c6..47 certbot.sh certbot
+	url = git@gist.github.com:c6361fe5ac43e59d5d0ddce9e1f8b247.git
+[submodule "0b..e7 user.sql PostgreSQL user"]
+	path = 0b..e7 user.sql PostgreSQL user
+	url = git@gist.github.com:0b7f73f6d3ea73b5179fb0200db3fae7.git
+[submodule "69..be postgres-status.sh PostgreSQL status"]
+	path = 69..be postgres-status.sh PostgreSQL status
+	url = git@gist.github.com:699781fbbed644258fdb6ee0989a10be.git
+[submodule "eb..5c Makefile PostgreSQL ssh"]
+	path = eb..5c Makefile PostgreSQL ssh
+	url = git@gist.github.com:ebce68416d4d1e3fa358237eea36215c.git
+[submodule "16..d6 postgres-logs.sh PostgreSQL logs #postgresql"]
+	path = "16..d6 postgres-logs.sh PostgreSQL logs #postgresql"
+	url = git@gist.github.com:16bee897df732abe92c1aee3e7d98fd6.git
+[submodule "2e..ec Makefile PostgreSQL cluster"]
+	path = 2e..ec Makefile PostgreSQL cluster
+	url = git@gist.github.com:2e531358fdc9c2821977321c87c5b6ec.git
+[submodule "7f..59 docker-exec.sh Docker exec"]
+	path = 7f..59 docker-exec.sh Docker exec
+	url = git@gist.github.com:7fd32c01bd7ef060e41f1fbc35383c59.git
+[submodule "82..f6 Docker base image.sh Docker base image"]
+	path = 82..f6 Docker base image.sh Docker base image
+	url = git@gist.github.com:827a29ce1d34457221b5ff333bd939f6.git
+[submodule "2c..bc middleware.txt Django middleware list"]
+	path = 2c..bc middleware.txt Django middleware list
+	url = git@gist.github.com:2caa27c2745e29dac30184ebf643d3bc.git
+[submodule "c5..fa Makefile AWS EC2 mount volume"]
+	path = c5..fa Makefile AWS EC2 mount volume
+	url = git@gist.github.com:c5e47f43b2883208e7382e7abe6ab5fa.git
+[submodule "30..8a github-repos-homepage-update.sh github repos homepage update"]
+	path = 30..8a github-repos-homepage-update.sh github repos homepage update
+	url = git@gist.github.com:304ce7f8213d3be30015144a99e6088a.git
+[submodule "b1..3e description.sh github repos homepage update"]
+	path = b1..3e description.sh github repos homepage update
+	url = git@gist.github.com:b1756d4e357979de70e52469072c483e.git
+[submodule "2d..0c github-list-orphaned-repos.sh github list orphaned repos"]
+	path = 2d..0c github-list-orphaned-repos.sh github list orphaned repos
+	url = git@gist.github.com:2d693a926097e1d9df08e0ab3d5f190c.git
+[submodule "cc..ae github-delete-orphaned-repos.sh github delete orphaned repos"]
+	path = cc..ae github-delete-orphaned-repos.sh github delete orphaned repos
+	url = git@gist.github.com:cc6408967d66a0c114b42ea2f3f73aae.git
+[submodule "07..ec ubuntu-clean.sh ubuntu clean"]
+	path = 07..ec ubuntu-clean.sh ubuntu clean
+	url = git@gist.github.com:0734603790a45c8b21158fd6026ed3ec.git
+[submodule "9c..98 Makefile ubuntu PostgreSQL clean"]
+	path = 9c..98 Makefile ubuntu PostgreSQL clean
+	url = git@gist.github.com:9c2998bfa4bdfc27b74532023e1b7e98.git
+[submodule "90..a6 Makefile ubuntu PostgreSQL"]
+	path = 90..a6 Makefile ubuntu PostgreSQL
+	url = git@gist.github.com:904d1bedcd781b3b188c8008f19299a6.git
+[submodule "3e..e1 Makefile ubuntu Nginx"]
+	path = 3e..e1 Makefile ubuntu Nginx
+	url = git@gist.github.com:3e7b9af8cc9399d61b28bd2d3fc7ade1.git
+[submodule "94..59 Makefile Docker ubuntu"]
+	path = 94..59 Makefile Docker ubuntu
+	url = git@gist.github.com:948805318a338a4ee0e72062848b8a59.git
+[submodule "13..ca Makefile ssh dotfiles"]
+	path = 13..ca Makefile ssh dotfiles
+	url = git@gist.github.com:1386f5ca2eda4966729966f58fef0eca.git
+[submodule "a0..7e pip install.sh pip install"]
+	path = a0..7e pip install.sh pip install
+	url = git@gist.github.com:a039358d2700dc0ddd4024c8a98ae47e.git
+[submodule "b3..79 npm package version.sh npm package version"]
+	path = b3..79 npm package version.sh npm package version
+	url = git@gist.github.com:b34dd3e602cb295897317bb2c2e91779.git
+[submodule "50..b7 macOS python.sh macOS python"]
+	path = 50..b7 macOS python.sh macOS python
+	url = git@gist.github.com:50b01f5e53732a002cd0a2b0626f2cb7.git
+[submodule "ba..3f certbot-ubuntubionic-nginx.sh certbot-ubuntubionic-nginx #certbot #nginx #ubuntu"]
+	path = "ba..3f certbot-ubuntubionic-nginx.sh certbot-ubuntubionic-nginx #certbot #nginx #ubuntu"
+	url = git@gist.github.com:ba4874987063a13a7717057c05b9c83f.git
+[submodule "da..5d docker rmi.sh Docker images remove"]
+	path = da..5d docker rmi.sh Docker images remove
+	url = git@gist.github.com:dab939974d06e0854f85c012b87fb05d.git
+[submodule "95..34 docker-cleanup.sh Docker cleanup"]
+	path = 95..34 docker-cleanup.sh Docker cleanup
+	url = git@gist.github.com:950cca202216efa3448f4c835137b234.git
+[submodule "b3..b9 Dockerfile Docker alpine pycurl"]
+	path = b3..b9 Dockerfile Docker alpine pycurl
+	url = git@gist.github.com:b3ac51af55dac99bb692936b2ee5ddb9.git
+[submodule "c2..6a ip.sh AWS EC2 IP #aws"]
+	path = "c2..6a ip.sh AWS EC2 IP #aws"
+	url = git@gist.github.com:c2880ee0979e5fcf587ee73bbab4686a.git
+[submodule "73..ea UNLICENSE UNLICENSE"]
+	path = 73..ea UNLICENSE UNLICENSE
+	url = git@gist.github.com:7332beab816a0b3beff2b8454305d3ea.git
+[submodule "b4..4f migrations.sh Django migrations mkdir"]
+	path = b4..4f migrations.sh Django migrations mkdir
+	url = git@gist.github.com:b45be5a3b0c8d95ea398e839e9f8b74f.git
+[submodule "51..b7 Dockerfile Docker alpine pycurl  #alpine #docker #python"]
+	path = "51..b7 Dockerfile Docker alpine pycurl  #alpine #docker #python"
+	url = git@gist.github.com:510f58dfa6dab41a9d572e0f6eaba6b7.git
+[submodule "f6..f4 set_password.py Django set_password #django"]
+	path = "f6..f4 set_password.py Django set_password #django"
+	url = git@gist.github.com:f62e8d087a56a4ddf2f980c6c5b212f4.git
+[submodule "cf..b9 django-createsuperuser.py Django create superuser #django"]
+	path = "cf..b9 django-createsuperuser.py Django create superuser #django"
+	url = git@gist.github.com:cffbf5c0063f9f7f7fa8fb93e07374b9.git
+[submodule "00..ff policy.json AWS S3 user full-access Policy"]
+	path = 00..ff policy.json AWS S3 user full-access Policy
+	url = git@gist.github.com:008a0c800c7e9f71ae7f9e4aebc11fff.git
+[submodule "42..f3 tar.sh tar"]
+	path = 42..f3 tar.sh tar
+	url = git@gist.github.com:42dba0c1ba63652f67fe898ae06514f3.git
+[submodule "1c..fb npm update.sh npm update"]
+	path = 1c..fb npm update.sh npm update
+	url = git@gist.github.com:1c932b5c85a8aa7eed770d21a7a510fb.git
+[submodule "6d..27 Dockerfile Docker alpine psycopg2"]
+	path = 6d..27 Dockerfile Docker alpine psycopg2
+	url = git@gist.github.com:6d5e2ce6a3750b789b1e640fb3ebc127.git
+[submodule "e6..4f Makefile Makefile.command"]
+	path = e6..4f Makefile Makefile.command
+	url = git@gist.github.com:e651c137c698cfeff81666aaefcc014f.git
+[submodule "0a..b3 s3.py AWS S3 boto3"]
+	path = 0a..b3 s3.py AWS S3 boto3
+	url = git@gist.github.com:0a469634210eada3800ee0d46e2287b3.git
+[submodule "4d..74 policy.json AWS S3 Policy"]
+	path = 4d..74 policy.json AWS S3 Policy
+	url = git@gist.github.com:4d0c55c2ad43d53d7520d08331823774.git
+[submodule "a1..08 put-user-policy.sh AWS IAM put-user-policy"]
+	path = a1..08 put-user-policy.sh AWS IAM put-user-policy
+	url = git@gist.github.com:a1b85e11c00630b995f9c51479681e08.git
+[submodule "cd..72 aws iam user.sh AWS IAM create-user"]
+	path = cd..72 aws iam user.sh AWS IAM create-user
+	url = git@gist.github.com:cd78034dfc321f1b0913c74cfe057772.git
+[submodule "d5..0e CORS.xml AWS S3 CORS"]
+	path = d5..0e CORS.xml AWS S3 CORS
+	url = git@gist.github.com:d58908c99bcadd3e08473872fb84cd0e.git
+[submodule "34..f6 Makefile AWS IAM S3 read-write access"]
+	path = 34..f6 Makefile AWS IAM S3 read-write access
+	url = git@gist.github.com:343d390dd909838ca45ed3acab07f9f6.git
+[submodule "b0..29 Makefile AWS IAM S3 full-access"]
+	path = b0..29 Makefile AWS IAM S3 full-access
+	url = git@gist.github.com:b043b412813f83632df4a2932e481329.git
+[submodule "05..64 Makefile AWS IAM CloudWatch"]
+	path = 05..64 Makefile AWS IAM CloudWatch
+	url = git@gist.github.com:059563aab282719f3c72fc254a852964.git
+[submodule "6b..e5 nginx.yml ansible nginx"]
+	path = 6b..e5 nginx.yml ansible nginx
+	url = git@gist.github.com:6b60c1865ff5f644b3c97ae7114945e5.git
+[submodule "4e..73 Makefile ansible docker django migrate"]
+	path = 4e..73 Makefile ansible docker django migrate
+	url = git@gist.github.com:4ef4a2ad676913a9ebb1a9aac2b10973.git
+[submodule "4d..17 Makefile ansible docker"]
+	path = 4d..17 Makefile ansible docker
+	url = git@gist.github.com:4d4714e5353ea3203d2171d65f41dc17.git
+[submodule "e8..c9 npm transfer ownership.sh npm transfer ownership"]
+	path = e8..c9 npm transfer ownership.sh npm transfer ownership
+	url = git@gist.github.com:e8f2c298918c5f15d6208573ba19cec9.git
+[submodule "10..89 docker-uninstall.sh Docker uninstall"]
+	path = 10..89 docker-uninstall.sh Docker uninstall
+	url = git@gist.github.com:1039d6bb1c9c707d0b499a5efbfbe289.git
+[submodule "0e..1b send_message.py celery AWS SQS send message"]
+	path = 0e..1b send_message.py celery AWS SQS send message
+	url = git@gist.github.com:0e9bc5a39a54235f647198f720d4c21b.git
+[submodule "22..14 gist recreate.sh gist recreate"]
+	path = 22..14 gist recreate.sh gist recreate
+	url = git@gist.github.com:22448d9971e6fa3a5feb6b1e2fc92714.git
+[submodule "a3..4e tag replace.py python regex replace link"]
+	path = a3..4e tag replace.py python regex replace link
+	url = git@gist.github.com:a310bfdf86d606ed34ff272a1f34a34e.git
+[submodule "b0..5e tag attribute.py python regex html tag attribute"]
+	path = b0..5e tag attribute.py python regex html tag attribute
+	url = git@gist.github.com:b0a5a02928abd071faec5160243c195e.git
+[submodule "61..cb pg_isready.sh postgres pg_isready"]
+	path = 61..cb pg_isready.sh postgres pg_isready
+	url = git@gist.github.com:61fdf6c1be7772bf5ab86ebabe8f00cb.git
+[submodule "27..21 networksetup.sh macOS Wi-Fi #macos"]
+	path = "27..21 networksetup.sh macOS Wi-Fi #macos"
+	url = git@gist.github.com:270c1953a62f62eeb2fb0414f9723321.git
+[submodule "29..08 click.applescript javascript fullscreen"]
+	path = 29..08 click.applescript javascript fullscreen
+	url = git@gist.github.com:29a1787dcc6705cc5ab1edc221b5d008.git
+[submodule "7f..2c test.js javascript font size"]
+	path = 7f..2c test.js javascript font size
+	url = git@gist.github.com:7f82619386d34736ec90718b2e67a02c.git
+[submodule "26..85 hash.py Django password hash"]
+	path = 26..85 hash.py Django password hash
+	url = git@gist.github.com:265a85e4ac5a9bd12bdf1cf129d91c85.git
+[submodule "d3..83 prod.py Django settings AWS logging CloudWatch #django #aws"]
+	path = "d3..83 prod.py Django settings AWS logging CloudWatch #django #aws"
+	url = git@gist.github.com:d39b0793da1e0314b37bff616fa64383.git
+[submodule "ae..ca settings.py Django settings AWS EC2 ALLOWED_HOSTS #django #aws"]
+	path = "ae..ca settings.py Django settings AWS EC2 ALLOWED_HOSTS #django #aws"
+	url = git@gist.github.com:ae1d7a9cc6f5477d784d85ae97bf53ca.git
+[submodule "7d..96 Makefile Makefile environment variables"]
+	path = 7d..96 Makefile Makefile environment variables
+	url = git@gist.github.com:7de51d50381c2abf83c9e3f7e2bb0596.git
+[submodule "44..ee Makefile Makefile env file"]
+	path = 44..ee Makefile Makefile env file
+	url = git@gist.github.com:4407d07ea91b146dc9179dcabfc045ee.git
+[submodule "e3..a4 gists push.sh gists push updates"]
+	path = e3..a4 gists push.sh gists push updates
+	url = git@gist.github.com:e330489e143050cd9262dc8a03c3e0a4.git
+[submodule "25..15 gists create.sh gists create"]
+	path = 25..15 gists create.sh gists create
+	url = git@gist.github.com:25cd417fdde68a84eb0a7efa716f6415.git
+[submodule "be..cc description.sh gists description update"]
+	path = be..cc description.sh gists description update
+	url = git@gist.github.com:bec15b5933311608b161f0ce0883d5cc.git
+[submodule "46..76 delete.sh gists delete orphaned"]
+	path = 46..76 delete.sh gists delete orphaned
+	url = git@gist.github.com:464b038c8656386ece838182f8256f76.git
+[submodule "1a..9c lsappinfo.sh macOS app frontmost"]
+	path = 1a..9c lsappinfo.sh macOS app frontmost
+	url = git@gist.github.com:1ab9807998e82dfbb7d774f98cf6df9c.git
+[submodule "27..5f PlistBuddy.sh macOS launchd scripts"]
+	path = 27..5f PlistBuddy.sh macOS launchd scripts
+	url = git@gist.github.com:272f880adc4deb5e30e2b78204e53e5f.git
+[submodule "8e..86 awk.sh substract lines"]
+	path = 8e..86 awk.sh substract lines
+	url = git@gist.github.com:8e4b04e28d3855dce29ad7e048ff0586.git
+[submodule "3f..6b test.py macOS speach commands parse"]
+	path = 3f..6b test.py macOS speach commands parse
+	url = git@gist.github.com:3f0f9b936035d6094718db092bcf296b.git
+[submodule "da..f5 defaults.sh macOS security"]
+	path = da..f5 defaults.sh macOS security
+	url = git@gist.github.com:da2493a262eaa4de6623e09d654924f5.git
+[submodule "ec..37 test.sh macOS remotecontrol disable"]
+	path = ec..37 test.sh macOS remotecontrol disable
+	url = git@gist.github.com:ecaa52401023c641efa7d9866ef2b737.git
+[submodule "85..b6 cleanup.command macOS cleanup"]
+	path = 85..b6 cleanup.command macOS cleanup
+	url = git@gist.github.com:85ebeb63319ba2bdd8464104659a86b6.git
+[submodule "ae..37 Finder fix.command macOS Finder fix"]
+	path = ae..37 Finder fix.command macOS Finder fix
+	url = git@gist.github.com:aee8ccfb7f954585d4504e5734222437.git
+[submodule "5e..35 speedup.sh macOS speedup"]
+	path = 5e..35 speedup.sh macOS speedup
+	url = git@gist.github.com:5e6ee494c32c8a0c5b80497cdb7da035.git
+[submodule "c7..9d remove fonts.sh macOS remove unused fonts"]
+	path = c7..9d remove fonts.sh macOS remove unused fonts
+	url = git@gist.github.com:c7a44a58e2cae6cf6ea1f5f2174d5b9d.git
+[submodule "33..ed macOS SIP.sh macOS SIP (System Integrity Protection)"]
+	path = 33..ed macOS SIP.sh macOS SIP (System Integrity Protection)
+	url = git@gist.github.com:33b497dff0657903071f1398115e46ed.git
+[submodule "d0..8e defaults.sh macOS languages"]
+	path = d0..8e defaults.sh macOS languages
+	url = git@gist.github.com:d0615ffa6ece9f6bdc93e5023b5b118e.git
+[submodule "b0..b5 sysctl.sh macOS Time Machine speed up #macos #sysctl"]
+	path = "b0..b5 sysctl.sh macOS Time Machine speed up #macos #sysctl"
+	url = git@gist.github.com:b0038a4e0a23533ab9dc2f1526fffab5.git
+[submodule "07..c0 Time Machine exclusions.command macOS Time Machine exclusions"]
+	path = 07..c0 Time Machine exclusions.command macOS Time Machine exclusions
+	url = git@gist.github.com:0753d79c132ae6895e389667c1f44bc0.git
+[submodule "84..57 Makefile Makefile nested"]
+	path = 84..57 Makefile Makefile nested
+	url = git@gist.github.com:84c613866820dfffd5ac34d09069cc57.git
+[submodule "e7..68 examples.sql postgres afk tracker"]
+	path = e7..68 examples.sql postgres afk tracker
+	url = git@gist.github.com:e7b22b408eef381f2376a2067a99d068.git
+[submodule "0b..63 mac shutdown.sh macOS shutdown"]
+	path = 0b..63 mac shutdown.sh macOS shutdown
+	url = git@gist.github.com:0ba1bbabe270e44ff40ee5b60edf3063.git
+[submodule "cc..97 finder-alias macOS Finder alias"]
+	path = cc..97 finder-alias macOS Finder alias
+	url = git@gist.github.com:cc8ea89a905e72a1ea865db630a91497.git
+[submodule "9f..a9 Dock add app.sh macOS Dock scripts"]
+	path = 9f..a9 Dock add app.sh macOS Dock scripts
+	url = git@gist.github.com:9f9134f6ae38bf515265865df904a9a9.git
+[submodule "47..4a gmail.py #python #gmail"]
+	path = "47..4a gmail.py #python #gmail"
+	url = git@gist.github.com:47d86814292afa9abd5969ec4e297f4a.git
+[submodule "b8..f0 perl.sh pid elapsed time"]
+	path = b8..f0 perl.sh pid elapsed time
+	url = git@gist.github.com:b85e871926a62c2d3a787b9c2d1a89f0.git
+[submodule "81..f0 pip.sh python pip #python #pip"]
+	path = "81..f0 pip.sh python pip #python #pip"
+	url = git@gist.github.com:81b7220863a1523ad02864aa75e760f0.git
+[submodule "c8..74 perl timeout.sh timeout"]
+	path = c8..74 perl timeout.sh timeout
+	url = git@gist.github.com:c8b8b38931a039db04d6ce901c0a5374.git
+[submodule "3f..f7 sysctl kern.sysv sysctl kern.sysv #sysctl"]
+	path = "3f..f7 sysctl kern.sysv sysctl kern.sysv #sysctl"
+	url = git@gist.github.com:3f69d18362fdcc07dfaf853a90a9e3f7.git
+[submodule "b4..3b sysctl -n kern.boottime.sh sysctl boottime #sysctl"]
+	path = "b4..3b sysctl -n kern.boottime.sh sysctl boottime #sysctl"
+	url = git@gist.github.com:b4ce7c690eee348fa626b555dba2ad3b.git
+[submodule "c8..45 DeRez.sh macOS Finder icon"]
+	path = c8..45 DeRez.sh macOS Finder icon
+	url = git@gist.github.com:c82535773af9402e3a8a70e8d7426d45.git
+[submodule "93..4d github ssh test.sh github ssh test"]
+	path = 93..4d github ssh test.sh github ssh test
+	url = git@gist.github.com:93b192f57f64d13d1ed3c55f5c9c284d.git
+[submodule "57..19 fs_usage -f filesys.command macOS fs_usage"]
+	path = 57..19 fs_usage -f filesys.command macOS fs_usage
+	url = git@gist.github.com:57fcbde4cf7fedb409db2e27811a8d19.git
+[submodule "52..34 headerless top.sh unix top examples"]
+	path = 52..34 headerless top.sh unix top examples
+	url = git@gist.github.com:524e213fa406dd264cdc71b845e61934.git
+[submodule "85..74 sound.sh macOS startup sound #macos"]
+	path = "85..74 sound.sh macOS startup sound #macos"
+	url = git@gist.github.com:85ebbfcb21428224e80419b2af7d6b74.git
+[submodule "56..fb ip.sh ip internal and public"]
+	path = 56..fb ip.sh ip internal and public
+	url = git@gist.github.com:562cacc7ddd5bd126b55e80436c13efb.git
+[submodule "68..fe ip geolocation.sh ip geolocation"]
+	path = 68..fe ip geolocation.sh ip geolocation
+	url = git@gist.github.com:68c835072d05695ffe1a354b814d12fe.git
+[submodule "c9..bb gists.command gists management (create, delete orphaned, push updates, update description)"]
+	path = c9..bb gists.command gists management (create, delete orphaned, push updates, update description)
+	url = git@gist.github.com:c9d7fb87ec5ebfa0740b2e2dbe4d25bb.git
+[submodule "42..ad url escape.sh url escape"]
+	path = 42..ad url escape.sh url escape
+	url = git@gist.github.com:4291d7681d5d2dcfb622e835913dddad.git
+[submodule "de..9c sqlite3.sh sqlite database locked"]
+	path = de..9c sqlite3.sh sqlite database locked
+	url = git@gist.github.com:de4a252a0e7b0329b9f222f568972f9c.git
+[submodule "ec..7a FUNCTION basename.sql postgres select basename"]
+	path = ec..7a FUNCTION basename.sql postgres select basename
+	url = git@gist.github.com:ecbb87a71c2875af7036a12731a9aa7a.git
+[submodule "bc..ab _invalid.csv postgres cvs ERROR: unterminated CSV quoted field"]
+	path = bc..ab _invalid.csv postgres cvs ERROR: unterminated CSV quoted field
+	url = git@gist.github.com:bca0bbca337f44461a040a90590925ab.git
+[submodule "ec..cb data.csv postgres csv import"]
+	path = ec..cb data.csv postgres csv import
+	url = git@gist.github.com:ec999dabe9f1a6e4143c2ce77366bfcb.git
+[submodule "d1..31 copy table.sql postgres copy table"]
+	path = d1..31 copy table.sql postgres copy table
+	url = git@gist.github.com:d1154ec6601933aebcdcf6d259b85831.git
+[submodule "55..33 Makefile node-sass"]
+	path = 55..33 Makefile node-sass
+	url = git@gist.github.com:5589f30103a0408597a5a2830eb25b33.git
+[submodule "e3..90 perl.sh macOS default browser"]
+	path = e3..90 perl.sh macOS default browser
+	url = git@gist.github.com:e3ae47e2eddc2041a72cd5677ae03990.git
+[submodule "13..49 register app.sh macOS lsregister app"]
+	path = 13..49 register app.sh macOS lsregister app
+	url = git@gist.github.com:1370fc80b9984abcc4cd378c3cf60649.git
+[submodule "18..ad Discord Developer Portal — Documentation — Webhook.webloc discord webhook example"]
+	path = 18..ad Discord Developer Portal — Documentation — Webhook.webloc discord webhook example
+	url = git@gist.github.com:18c3a8a460c3e4fb41e9b1a7a5b59bad.git
+[submodule "11..38 python remove emoji.py emoji remove"]
+	path = 11..38 python remove emoji.py emoji remove
+	url = git@gist.github.com:110d66d6075f1b8ec6503b8624d0f238.git
+[submodule "57..12 settings.py Django settings SSL HTTPS"]
+	path = 57..12 settings.py Django settings SSL HTTPS
+	url = git@gist.github.com:572dd1dfa1dccf6b56ace91607c11a12.git
